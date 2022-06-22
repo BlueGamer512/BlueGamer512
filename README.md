@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlueGamer512
 - 👀 I’m interested in coding,lucid dreaming and playing games
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
